@@ -1,0 +1,35 @@
+/* Fichier CSS à personnaliser */
+
+body {
+    font-family: 'Arial', Calibri, serif;
+	font-size: 15px;
+	text-align: center;
+	background: linear-gradient(#090979, #00d4ff)
+  }
+
+h1,h2 {
+    font-weight: large;
+    text-align: center;
+    color: red;
+    background-color: linear-gradient(#090979, #00d4ff)
+  }
+  
+ul,li,p{
+	color:white;
+
+
+}
+
+img{
+	width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+.special {
+    color: orange;
+    background-color: navy;
+    border: solid black;
+  }
+
+
