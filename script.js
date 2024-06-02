@@ -1,10 +1,10 @@
 // Mettre un style Special
 function mettreStyleSpecial() {
-  document.getElementById("p").classList.add('special');
+  document.getElementById("monTexte").classList.add('special');
 }
 
 // Enlever le style Special
 function enleveStyleSpecial() {
-  document.getElementById("p").classList.remove('special');
+  document.getElementById("monTexte").classList.remove('special');
 }
 
